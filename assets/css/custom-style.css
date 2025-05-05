@@ -1,0 +1,41 @@
+.top-bar {
+  font-size: 0.9rem;
+}
+.top-bar a:hover {
+  color: #fff !important;
+  opacity: 0.8;
+}
+.nav-link {
+  color: #002147 !important; /* Navy blue */
+  font-weight: 500;
+}
+.nav-link.active,
+.nav-link:hover {
+  color: #c8102e !important; /* Red for active or hover */
+}
+.call-btn {
+  background-color: #c8102e;
+  color: white;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 18px;
+}
+.navbar-brand img {
+  height: 40px;
+}
+
+.quickLink a:hover {
+  color: white !important;
+}
+
+.immigrationLink .nav-link:hover i {
+  color: white !important;
+}
+
+.immigrationLink .nav-link:hover span {
+  color: #dc3545 !important;
+}
