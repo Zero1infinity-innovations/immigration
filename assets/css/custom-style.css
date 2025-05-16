@@ -39,3 +39,61 @@
 .immigrationLink .nav-link:hover span {
   color: #dc3545 !important;
 }
+.carousel-caption {
+  padding: 20px;
+  border-radius: 15px;
+}
+.carousel-item img {
+  height: 500px;
+  object-fit: cover;
+  width: 100%;
+}
+.carousel-caption h5 {
+  font-size: 2rem;
+  font-weight: bold;
+}
+.carousel-caption p {
+  font-size: 1.2rem;
+}
+
+.about-section {
+  background-color: #ffffff;
+  padding: 60px 0;
+}
+
+.about-section .title {
+  color: #d32f2f; /* red */
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.about-section p {
+  color: #333333;
+  font-size: 1.1rem;
+}
+
+.about-highlight {
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px !important;
+  border-radius: 10px;
+  padding: 20px;
+}
+
+.about-section .btn-custom {
+  background-color: #d32f2f;
+  color: #fff;
+  border-radius: 30px;
+  padding: 10px 25px;
+  transition: all 0.3s ease-in-out;
+}
+
+.about-section .btn-custom:hover {
+  background-color: #000;
+  color: #fff;
+}
+
+.about-img {
+  width: 100%;
+  border-radius: 15px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+  object-fit: cover;
+}

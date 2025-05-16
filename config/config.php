@@ -2,7 +2,7 @@
 define('BASE_URL', 'http://localhost/immigration/');
 define('COMP_URI', '/immigration');
 define('ADMIN_BASE_URL', 'http://localhost/immigration/admin/');
-define('ADMIN_COMP_URI', '/blogTemplate/admin');
+define('ADMIN_COMP_URI', '/immigration/admin');
 
 // Database Configuration
 // define('DB_HOST', 'localhost');
